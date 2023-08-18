@@ -40,7 +40,9 @@
     "vite-tsconfig-paths": "4.2.0"
   },
   "dependencies": {
+    "@spotify/web-api-ts-sdk": "^1.1.0",
     "@unpic/qwik": "^0.0.25",
-    "clsx": "^2.0.0"
+    "clsx": "^2.0.0",
+    "openai": "^4.0.0"
   }
 }
